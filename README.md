@@ -1,3 +1,4 @@
 # Hello-World
 Just another Repository
-i am looking into expanding my knowledce of Java and Python
+
+I am looking forward to expand my knowledge of Java, JSON and Python
